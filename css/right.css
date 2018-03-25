@@ -1,0 +1,82 @@
+.right-panel{
+	
+	position: absolute;
+    left: 1400px;	
+	width: 80%;
+	height: 100%;
+    background-color: white;
+}
+.posst-list{
+   width: 80%;
+	margin: 0;
+	margin-top: 100px;
+	padding: 0;
+	list-style-type: none;
+    text-align: left;
+	 
+}
+.list-title{
+	text-align: center;
+	border-width: 0px;
+	margin-top: 0;
+    margin-bottom: .2em;
+    font-size: 1.5em;
+    line-height: 1.3em;
+}
+.excerpt{
+	text-align: left;
+    margin: 0;
+    font-size: .9em;
+    color: #999999;
+}
+.article{
+	margin-top: 40px;
+	/*margin: 0;*/
+	margin-bottom: 0;
+	float: left;
+	width: 60px;
+	height: 200px;
+	padding: 45px 35px 0px  35px;
+	border: 0px solid white;
+	border-radius: 0px;
+	text-align: center;
+	display: block;
+	transition: 0.5s ease;
+	
+	border-width: 0px;
+	/*background-color: #BF1827;*/
+}
+.titlea{
+
+	color: dimgray;
+	font-family: "微软雅黑";
+    text-decoration: none;
+}
+.post-time{
+	
+  margin-left: -300px;
+  display: block;
+  margin: .7em 0 10px 0;
+  font-size: .9em;
+  color: dimgrey; 
+}
+.post-list__meta--date{
+	margin-left: 0px;
+	text-align: left;
+	
+}
+.post-list__meta--tags {
+  margin-left: .5em; }
+  
+  .post-list__divider {
+  width: 30%;
+  margin: 2.2em 0 2.1em 0;
+  border-top: 1px solid #DDDDDD; }
+
+.btn-border-small{
+	border: 1px solid #BF1827;
+    border-radius: 20px;
+    padding: 6px 8px;
+    font-size: .8em;
+    margin-left: 10px;
+}
