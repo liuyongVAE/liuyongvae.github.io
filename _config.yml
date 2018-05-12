@@ -19,8 +19,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     刘勇
-github_username:    liuyongVAEVAE
+zhihu_username:     liu-yong-1-76
+github_username:    liuyongVAE
 qq_Number:  1227137391
 jianshu_username:   797232274205
 #twitter_username:   qiubaiying
@@ -61,12 +61,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  enable: false    #是否开启Gitalk评论
+  clientID: 1ccf5280e1cfbf1f4e81                           #生成的clientID
+  clientSecret: d1c88ec235a2205a61e31bf0213d6137bc2d3ab7    #生成的clientSecret
+  repo: liuyongVAE.github.io    #仓库名称
+  owner: liuyongVAE    #github用户名
+  admin: liuyongVAE
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
